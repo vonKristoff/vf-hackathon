@@ -1,0 +1,14 @@
+{
+  "name": "vf-hackathon--trashbot",
+  "version": "1.0.0",
+  "description": "fullstack app to integrate a slackbot to capture time wasted by employees held up by blockers and turn this waste paper into meaningful data to consume in a beautiful chart form clientside application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run:frontend": "echo frontend",
+    "run:slackbot": "echo slackbot",
+    "start": "npm run"
+  },
+  "author": "jeanchristophe.nicolas@vodafone.com",
+  "license": "MIT"
+}
