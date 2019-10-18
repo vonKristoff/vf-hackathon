@@ -62,7 +62,7 @@ Local React app to consume updates from the firestore and represent the availabl
 ### Slack App installation
 
 1. Goto https://api.slack.com/apps and create new app
-2. ![Screenshot 2019-10-17 at 16.24.08](Screenshot 2019-10-17 at 16.24.08.jpg)
+2. ![Screenshot 2019-10-17 at 16.24.08](./Screenshot 2019-10-17 at 16.24.08.jpg)
 
 3. ![Screenshot 2019-10-17 at 16.23.18](Screenshot 2019-10-17 at 16.23.18.jpg)
 4. ![Screenshot 2019-10-17 at 16.24.21](Screenshot 2019-10-17 at 16.24.21.jpg)
