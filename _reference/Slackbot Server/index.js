@@ -1,10 +1,10 @@
 const Slackbot = require('slackbots')
 const axios = require('axios')
 
-const api = 'https://us-central1-jcn-trashtalk-544.cloudfunctions.net/request'
+const api = 'https://us-central1-jcn-trashtalk-544.cloudfunctions.net/'
 
 const bot = new Slackbot({
-    token: 'xoxb-308639523303-793474530389-U2njXbyqDipcOUkJSFY3O2gw',
+    token: '',
     name: 'trash'
 })
 

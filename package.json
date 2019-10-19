@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run:frontend": "echo frontend",
+    "run:frontend": "cd fullstack/frontend && npm run frontend:start",
     "run:slackbot": "echo slackbot",
     "start": "npm run"
   },
